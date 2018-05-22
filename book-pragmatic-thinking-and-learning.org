@@ -1,0 +1,216 @@
+* From Novice to Expert
+** The Dreyfus model
+   There are 5 stages of mastery in the dreyfus model.. apparently the goal of this book will be to teach us how to take ourselves from step 1 (beginner) to step 5 (expert) if we so choose.
+   one of the main points here is that we can be at many different levels in various skills and domains in our life.. but in most things we DO fall into one of these levels.  I am a beginner at some things, competent at others and if I'm lucky, proficient or expert in one or two.
+   
+   the biggest distinction between beginners and experts is the shift from a need for context-free rules (oven to 350, bake for 20 minutes) to context-dependent intuition (bake until done).  The rest of this book will focus on taking us along that path.
+   
+   *unskilled and unaware* When you aren't very skilled, you are more likely to overestimate your skill level.  This is a case of "you don't know what you don't know"
+   
+   *skill distribution* MOST people are advanced beginners in most areas of their life and work.. and most people never progress past this point.
+
+*** Stage 1: Novice
+    The novice is a completely unskilled beginner.  Novices NEED a recipe to succeed.
+*** Stage 2: Advanced Beginner
+    The advanced beginner can start to break away from the rules and recipes a bit, but don't yet get the big picture and have difficulty troubleshooting
+*** Stage 3: Competent
+    Competents can troubleshoot.. they can seek out and solve problems and their work is based more on deliberate planning and past experience.
+*** Stage 4: Proficient
+    Proficient practitioners understand and require the big picture frameworks around the skill.  They can self-correct and self-improve because they can properly evaluate what's going on with their work in relation to the big picture concepts at play in the skill.
+    
+    "Along with the capacity to learn from others comes the ability to understand and apply maxims, which are proverbial, fundamental truths that can be applied to the situation at hand.
+    For instance, a well-known maxim from the extreme programming methodology tells you to “test everything that can possibly break.” To the novice, this is a recipe. What do I test? All the setter and getter methods? Simple print statements? They’ll end up testing irrelevant things."
+    
+    proficients know what's going to happen next, and when it doesn't work out that way, they know why and how to fix it.
+*** Stage 5: Expert
+    Experts work from intuition.  They probably have a hard time putting to words exactly HOW they've accomplished their work or how they know the things they know
+    
+    Experts are ruined by rules!  They cannot work effectively when forced to constrain their work to a set of rules or guidelines
+*** So where am I in all of this?
+**** HTML/CSS
+     Competent (maybe) If I'm anything above an advanced beginner in any skill related to my profession it's this one.  I'm willing to admit that I'm certainly no expert and probably not proficient.  At this point I'm cabable of fairly quickly and easily styling some given html to a design, but I am /not/ particularly good at designing my css for the big picture and I occasionally style myself into a corner or make a mess of things that could be much cleaner. 
+     Example: I can use CSS Grid easily enough (if I google the syntax) but I don't quite have an accurate feel for the implications of doing so across the app as a whole.
+***** To advance: I need a better feel for creating sustainable, well orgainized code that works well in several contexts.  I need to write CSS that doesn't break down when I need to start adding stuff or extending a component.
+**** JavaScript
+     Advanced Beginner. I'm pretty good. I have the syntax down and can solve simple problems easily but I don't really have the context skills to make intelligent decisions about patterns or architecture.  I'm good at the details like the various array functions, classes and prototypes etc. etc. etc. but I fail when it comes to organizing my code intelligently.  I /am/ getting to a point where I can tell that my stuff is sub-optimal, but I struggle to determine exactly why and how to fix it.
+***** To advance: A better feel for design patterns and whole-app processes and organizational methods. I need to move past simply mastering syntax and functions
+**** Polymer
+     Novice. I have the basic API down, but I constantly struggle to understand exactly what is going on so I'm always running into issues with things not propagating like I expect them or updating in the DOM like I think they should.  I am missing some fundamental understanding of what's actually going on in the background
+***** To advance: I need a better understanding of what's actually going on behind the scenes here.  I don't actually know HOW a dom-repeat or dom-if works for example.
+**** Banno/Jack Henry
+     Novice.  I barely understand the company, our product and how it fits in.. although I am starting to get a feel for it.  Things like user numbers and FI's using our stuff don't really make any real difference to my day-to-day job.
+***** To advance:
+**** Teaching
+     Competent (I think?) I have a decent feel for students/the audience and what they're getting or not while I teach.  I'm not really sure where there is to go from here though.. maybe greater intuition in whether or not a student is "getting it" and/or how to help them to get it?
+***** To advance:
+**** Cooking
+     Advanced Beginner.
+***** To advance:
+**** Music
+     Competent.. this one depends on the context of course.. but I'm fairly good at guitar and playing in the praise band.  I can play appropriately with the band and feel where we're going and stuff like that.  Perhaps in most music I'm still an advanced beginner.. I dunno.  I like to think of my musical sense as fairly intuitive even if I don't have a ton of "playing" skills.  This on is hard to quantify
+***** To advance:
+** Recipe: Know what you don't know
+   be aware that you do not know everything and that you are very likely an advanced beginner... then do what you can to push to the next steps by finding out what you don't know.  Don't fall into the trap of falsely assuming that you know everything there is to know already.
+   
+   @chadk: "Everyone thinks they're a JavaScript expert"
+** Recipe: Learn by watching and imitating
+   you can not attain expertise without experience.. so get experience first by imitating experts or proficients
+** Recipe: Keep Practicing to stay an expert
+   You aren't going to stay sharp just by default.. you have to TRY and PRACTICE to stay an expert if you manage to get to that point.  Skills rust over time
+** Recipe: Avoid formal methods if you need creativity, intuition or inventiveness
+   CONTEXT MATTERS!  You can't just blindly follow rules or formal procedures or methods without considering the context of the situation. Opening a locked door is a fundamentally different thing when the building is on fire.
+* This is your brain
+** Your brain works in 2 different modes L-mode and R-mode
+   L-mode is the default obvious mode.. it takes care of language processing and does things like detail analysis
+   R-mode, is the mode that takes care of intuition, problem-solving and creativity.  
+   In general.. the better these two modes work together, the closer to "expert" you can become.  Remember.. an "expert" is someone that works primarily from intuition.. they aren't REALLY good at processing in the L-mode.. they have internalized everything to the point that they are working heavily in R-mode.
+   R-mode sees the forest... L-mode sees the trees
+** R-mode is not directly controllable
+   R-mode is the background process that does things like: produce solutions to problems long after you've moved on, while you are working on something else, or are in the shower.  R-mode gives you interesting ideas when you least expect it because it's working, chugging along, in the background.
+   R-mode quite likely stores EVERY bit of information you have... but it doesn't always index that information, and it is not always easy (or even possible) to retrieve that information... this is why it's important to take notes. and why it's a good idea to have something on which you can always take a note if you need or want to.
+** Recipe: Capture ALL ideas to get more of them.
+   ALWAYS have a way to capture and record your thoughts.  I'm using org-mode and the IOS 'drafts' app for this.
+   Capturing your ideas as they come to you will facilitate your mind producing MORE ideas!  YAY ideas!
+   if you don't capture all your ideas.. eventually they'll stop coming to you.  THis sucks.
+** Recipe: Learn by Synthesis as well as by analysis. 
+   "if you really want to learn about a frog.. don't dissect one, MAKE one"
+   this rule is a little bit foggy to me.. it's not incredibly clear what it actually means... but I like the sound of it. 
+   some possible meanings:
+   - Instead of learning Redux(or whatever) by reading the docs, try to implement a version of it on your own
+   - Instead of reading about CSS grid.. dive in and start USING it.  Look up docs as you need to, but actually start using the thing before just reading about the API.
+   - Jump into a codepen to play around with a new thing after you've read about it.
+   Of these 'possible meanings' only the first one is revolutionary to me.  The second and third are kind of just the way I operate. anyway.  I learn by doing and playing and experimenting.
+** Recipe: Good design works better.
+   prettier tools and nicer User Interfaces /actually/ help you learn better.  I'm not positive of the extent to which this actually applies to me... but it seems legit.  The advice in the book talks about the layout of your code (including font and color scheme???) the arrangment of your desk and things like that.
+   perhaps thats why macbooks are seen as superior 'creative' machines lol
+** Recipe: Rewire your brain! with belief and constant practice
+   You can literally rewire your brain.  This is called neuroplasticity.
+   thinking makes it so... if you believe a thing your brain can make it happen
+   what you think about the brain's capacity physically affects the "wiring" of your brain... 
+
+   Just /thinking/ that your brain has more capacity for learning makes it so.
+* Get in your right mind!
+** Recipe: Add Sensory input to engage more of your brain
+   playing with blocks or fidget toys, or using a multisensory technique to do your work (modeling your app with legos?) helps engage your brain more fully... it can foster deeper learning and greater creativity
+** Recipe: Lead with R-mode, follow up with L-mode
+***   Do a little rock climbing before learning the specifics of the art (this was teh example in the book anyway)
+***   write drunk, revise sober...  
+*** the idea here is that you want to give R-mode free reign before you resoert to analytical processes.
+*** *Learning can be impeded by trying to memorize minor facts when you don't yet grasp the whole*
+*** embrace the "shitty first draft"
+   learn to be comfortable with uncertainty.. be comfortable with the absurd and impractical.  When learning don't try so hard to learn and memorize.. just get "used to it" first.  Try to understand teh meaning first; get the overal gist of it.  THEN follow up with traditional L-mode activities to get to the next step.  Lead with the R-mode then shift to the L-mode
+*** *example*: I want to get better at Polymer stuff... but I shouldn't worry about the specifics of /exactly/ how it's all going to come together.  I just need to start slinging code around for a bit.  All this stuff about node_modules and yarn and --flat and template strings etc. etc. is fairly meaningless until I've written some shitty code first.
+   Pair programming is an interesting way to get a shift from L-mode to R-mode and back
+** Recipe: Use metaphor as a meeting place between L-mode and R-mode.
+***   metaphor is a strong way to strenghten how R-mode and L-mode work together.. it can bolster the types of ideas and connections that R-mode is processing in the background.. and of course the L mode is the system that has to come up with the metaphor to begin with.
+*** Some metaphors are stronger than others.. In their most basic form metaphors are the combination and juxtaposition of two different and incompatible ideas... but the distance between the ideas and the usefulness of the juxtaposition is variable.
+****   the book recommends experiemnting with inventing your own metaphors as you're working on something.  This is something that has to be intentionally done.... it's not something that comes naturally.  
+*** Use random Justaposition to create metaphor
+** Recipe: Cultivate humor to build stronger metaphors
+*** humor can make the metaphor stick better, which in the end makes it more effective
+** Image Streaming
+*** The book recommends a technique called image streaming wherein you ask yourself a question, or pose a problem to be solved and then you close your eyes, conjure up an image (maybe even at random) and then let that image marinate a while.. as you dig in and describe all teh details and minutae therein.
+** Free-form writing
+*** HOLY MOLY - I DO THIS AND I DIDN'T EVEN KNOW WHY.
+*** Stream-of-consiousness writing is a good way to 'learn stuff' because your brain will start making connections for you (r-mode) as you do the writing.  Blogging and journalling are nice formats for this.
+*** Technique: Morning pages.  First thing in the morning.. before your coffee/shower etc. sit down and write 3 freehand pages of whatever comes to mind.
+** Recipe: Step away from the keyboard to solve hard problems
+** Recipe: Change your viewpoint to solve the problem
+*** instead of working hard to remove an issue, or prevent one, brainstorm a few ways you might actually CAUSE the issue.  In doing so you might actually figure out a cause.
+*** look at something in reverse.. exaggerate the idea.. combine disparate ideas etc.
+** Recipe: be comfortable with uncertianty
+   You gain more knowledge over time.. so deferring conclusions only leads you to be able to make better decisions.
+** Recipe: trust ink over memory -- you don't remember very well.
+** Recipe: embrace diversity
+** Recipe: trust your intuition -- but verify it.
+* Debug your mind
+** Cognitive Biases
+** Generational Affinity
+** Personality Tendencies
+** "Hardware Bugs"
+* Learn Deliberately
+** What learning IS
+   Learning is probably the most important skill in our daily lives..   The ability to learn quickly and efficiently is likely the thing that ultimately sets us apart from the competition in our careers and lives.
+   - Learning is not someting done TO you.. it's something /YOU/ do.
+   - Knowledge without experience is ineffective
+   - A random approach without goals or feedback tends to give random results
+   The mind is not a vessel to be filled, but a fire to be kindled.
+** Recipe: create SMART objectives to reach your goals
+*** *S*pecific
+    obvious lol.. make goals specific.. I'm going to learn Polymer => I'm going to learn enough of Polymer 3.0 to create a simple app built from individual components.
+*** *M*easurable
+    You need to be able to determine whether or not your goal has been acheived... can't just say "I'm gonna lose weight" you need to give it some NUMBERS: I'm gonna lose 30lbs or I'm gonna lose 5lbs/week.  I'm gonna create this specific app etc.
+*** *A*chievable
+    If goals aren't actually realistic then they'll be more demoralizing than helpful.
+*** *R*elevant
+    Another obvious one... you need to pick goals that are relevant to your own pursuits.  If you don't give a rip about whatever your learning objective is, you're likely to give up
+*** *T*imely
+    Goals need a time-limit.  Put a date on your goal so you can know whether or not you have achieved it.
+** Recipe: create a pragmatic investment plan.
+*** time cannot be created or destroyed... you aren't "out of time" you just don't allocate it effectively.
+*** Have a concrete plan
+    Just /having/ a plan is a huge step forward.  even if the plan sucks, or you have to change it, the fact that you HAVE one makes a big difference.
+    - use smart goals in your plan and devise different levels of goals over time.
+      - what you can do now
+        - buy book or course, download product, install language etc.
+      - Goals for the next year.
+        - be able to do /xyz/ in whatever language or tool
+        - complete a specific project
+      - Goals for five years out
+        - Speaking at a conf or writing a book.. bigger goals
+    The time frame is arbitrary.. but having a concrete plan is important
+    personally I'd rather work in shorter timeframes: 
+    - now
+    - three months from now
+    - six months from now
+*** Diversify
+    When choosing areas to invest in, make a conscious effort to diversify your attention.  Don't put all your eggs in one basket.
+    The main point here is that you don't want to run the risk of focusing SOLELY on something that will fade away over time.  you don't put all your money into a single stock... you diversify!
+    This may include 
+    - learning different languages, or at least different frameworks within your lang
+    - Focusing on other fields (i.e. management or design rather than strictly DEV devops)
+    - focus on other nontechincal things like public speaking, writing etc.
+    Should include some /"risky"/ investments.. you never know when they might pay off!
+*** Make an active, not passive investment
+    Not much to comment on here.. but you have to actually dig in and USE the stuff you're learning
+*** Make a regular investment
+    obvious.. make a minimum investment of time on a regular basis.  It's the only way to get anywhere with your learning.  You can't just wait until you have 'free time' cause you'll never actually have freetime.
+** Recipe: plan your investment deliberately.
+** Learning Modes
+*** Know your primary learning mode: visual, auditory, kinesthetic etc etc.
+*** I feel like I have kind of transcended this stuff... I know how I learn best ¯\_(ツ)_/¯
+** Recipe: Read deliberately with SQ3R
+*** Survey
+    Scan through the book.. the table of contents, the chapter summaries, headlines whatever
+*** Question
+    Ask questions of the book.. what do you think the book is going to teach you?
+*** Read
+    READ
+*** Recite
+    Summarise, take notes and put things into your own words... the act of summarizing and paraphrasing is important because it cements the stuff in your head.  You have to actually THINK about and understand what you've read to do this.  Notes are important because you are going to want to review what you've read.
+    Do this as you go along.. don't save it for the end
+*** Review
+    ....re-read, expand your notes and discuss with others.
+** Recipe: use Mind Maps to engage the R-mode in your note-taking
+   Mind maps are pretty simple.. but I've never actually used one. I should.  Basically just draw a "map" on a piece of paper that shows connections between the various ideas in the topic.
+   the main focus should be emphasising the relationships between item
+* Gain Experience
+** Play in order to learn
+** Leverage Existing Knowledge
+** Embed Failing in Practice
+** The Inner Game
+** Pressure Kills!
+** Imagination overrides senses
+** Learn Like an Expert
+* Manage Focus
+** Increase Focus and Attention
+** Defocus to Focus
+** Manage Your Knowledge
+** Optimize your current context
+** Manage Interruptions
+** Keep a BIG context
+** Stay Sharp!
+* Beyone Expertise
+** Effective Change
+** What to do tomorrow morning
+** Beyone Expertise
